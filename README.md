@@ -11,9 +11,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 ### Precipitation Analysis
 
-* Start by finding the most recent date in the data set.
-
-* Retrieve the last 12 months of precipitation data by querying the 12 preceding months of data. **Note** you do not pass in the date as a variable to your query.
+* Retrieve the last 12 months of precipitation data by querying the 12 preceding months of data.
 
  ![precipitation](images/precipitation_line_chart.PNG)
 
