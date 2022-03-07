@@ -26,7 +26,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 - - -
 
-## Step 2 - Climate App
+## Step 2 - [Climate App](https://github.com/RobSalazar/sqlalchemy-challenge/blob/main/app.py)
 
 
 
@@ -38,4 +38,4 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 * Hawaii is reputed to enjoy mild weather all year. Is there a meaningful difference between the temperature in, for example, June and December?
 
-* Use the t-test to determine whether the difference in the means, if any, is statistically significant. Will you use a paired t-test, or an unpaired t-test? Why?
+* Use the t-test to determine whether the difference in the means, if any, is statistically significant. Will you use a paired t-test, or an unpaired t-test? [Why?](https://github.com/RobSalazar/sqlalchemy-challenge/blob/main/temp_analysis_bonus_1_starter.ipynb)
