@@ -100,7 +100,6 @@ def tobs_with_start(start):
 
     return jsonify(tobsall)
 
-
 #When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive.
 @app.route('/api/v1.0/<start>/<end>')
 def tobs_with_start_end(start,end):
