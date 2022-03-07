@@ -15,9 +15,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 * Retrieve the last 12 months of precipitation data by querying the 12 preceding months of data. **Note** you do not pass in the date as a variable to your query.
 
- ![precipitation](Images/precipitation.png)
-
-* Use Pandas to print the summary statistics for the precipitation data.
+ ![precipitation](images/precipitation_line_chart.PNG)
 
 ### Station Analysis
 
@@ -26,7 +24,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 * Design a query to find the most active stations (i.e. which stations have the most rows?).
 
 
-    ![station-histogram](Images/station-histogram.png)
+ ![station-histogram](images/station_temp.PNG)
 
 - - -
 
